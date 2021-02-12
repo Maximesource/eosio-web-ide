@@ -1,3 +1,5 @@
+// Maxime Deffet
+
 #include <eosio/eosio.hpp>
 
 // Message table
